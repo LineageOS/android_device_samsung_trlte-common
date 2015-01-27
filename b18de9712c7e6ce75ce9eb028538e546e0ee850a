@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_5893dfa3",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 1510,
+      "author": {
+        "id": 167
+      },
+      "writtenOn": "2015-01-27T04:19:27Z",
+      "side": 1,
+      "message": "All this is handled through the power hal.  No need for it",
+      "revId": "b18de9712c7e6ce75ce9eb028538e546e0ee850a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
