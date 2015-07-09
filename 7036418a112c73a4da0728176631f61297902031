@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ff73747_cc7ff7a9",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-09T23:17:08Z",
+      "side": 1,
+      "message": "The sections are in alphabetical order. T comes way further down.",
+      "revId": "7036418a112c73a4da0728176631f61297902031",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ff73747_ac7cabb5",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 347,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-09T23:17:08Z",
+      "side": 1,
+      "message": "GPS is alphabetically before Graphics.",
+      "revId": "7036418a112c73a4da0728176631f61297902031",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
