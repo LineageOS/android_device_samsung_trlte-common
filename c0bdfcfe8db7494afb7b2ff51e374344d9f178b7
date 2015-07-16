@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_da2d5aa9",
+        "filename": "trlte.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 4557
+      },
+      "writtenOn": "2015-07-16T18:53:13Z",
+      "side": 0,
+      "message": "need to remove backslash on last line end",
+      "revId": "c0bdfcfe8db7494afb7b2ff51e374344d9f178b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
