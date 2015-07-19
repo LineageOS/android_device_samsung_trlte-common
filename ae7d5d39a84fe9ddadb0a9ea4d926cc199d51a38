@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_cbdc671a",
+        "filename": "trlte.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 7202
+      },
+      "writtenOn": "2015-07-19T21:18:33Z",
+      "side": 1,
+      "message": "Do we need still Torch Package? Isn\u0027t that in framework?",
+      "range": {
+        "startLine": 201,
+        "startChar": 4,
+        "endLine": 201,
+        "endChar": 9
+      },
+      "revId": "ae7d5d39a84fe9ddadb0a9ea4d926cc199d51a38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
