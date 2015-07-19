@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "ff0f0b1f_8baaef82",
+        "filename": "trlte.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 4557
+      },
+      "writtenOn": "2015-07-19T19:51:27Z",
+      "side": 0,
+      "message": "This is also duplicated, one was removed. See below",
+      "parentUuid": "ff0f0b1f_4be61719",
+      "range": {
+        "startLine": 75,
+        "startChar": 64,
+        "endLine": 75,
+        "endChar": 68
+      },
+      "revId": "31215b7ffbe4399d1ab391519f36ddb9d3738557",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ff0f0b1f_2be3e307",
         "filename": "trlte.mk",
         "patchSetId": 2
