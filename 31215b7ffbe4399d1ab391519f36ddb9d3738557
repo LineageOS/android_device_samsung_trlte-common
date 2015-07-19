@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_4be61719",
+        "filename": "trlte.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 11448
+      },
+      "writtenOn": "2015-07-19T19:03:27Z",
+      "side": 0,
+      "message": "I think we actually need this. It\u0027s read by flp.default.so which reads and processes its values",
+      "range": {
+        "startLine": 75,
+        "startChar": 64,
+        "endLine": 75,
+        "endChar": 68
+      },
+      "revId": "31215b7ffbe4399d1ab391519f36ddb9d3738557",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff0f0b1f_2be3e307",
+        "filename": "trlte.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 11448
+      },
+      "writtenOn": "2015-07-19T19:03:27Z",
+      "side": 0,
+      "message": "Why would we want to delete the GPS HAL ?",
+      "range": {
+        "startLine": 78,
+        "startChar": 20,
+        "endLine": 78,
+        "endChar": 21
+      },
+      "revId": "31215b7ffbe4399d1ab391519f36ddb9d3738557",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
