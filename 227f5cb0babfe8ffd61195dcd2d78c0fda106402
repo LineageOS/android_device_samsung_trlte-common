@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_d31b0c71",
+        "filename": "power/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-23T05:23:15Z",
+      "side": 1,
+      "message": "If you guard against trlte you don\u0027t have to bother with QCOM boards.",
+      "revId": "227f5cb0babfe8ffd61195dcd2d78c0fda106402",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
