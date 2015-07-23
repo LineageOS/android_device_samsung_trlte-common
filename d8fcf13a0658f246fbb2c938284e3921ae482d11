@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_7303200f",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-23T05:06:37Z",
+      "side": 1,
+      "message": "Don\u0027t really need to explain, I think it was broadcast in the CM dev group that this would happen if you removed an explicit power HAL.",
+      "revId": "d8fcf13a0658f246fbb2c938284e3921ae482d11",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_53081c27",
+        "filename": "power/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-23T05:06:37Z",
+      "side": 1,
+      "message": "You want to guard this so that only trlte devices can enter here.",
+      "revId": "d8fcf13a0658f246fbb2c938284e3921ae482d11",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
